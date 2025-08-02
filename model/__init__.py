@@ -1,0 +1,1 @@
+# Model package for text generation data structures
